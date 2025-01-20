@@ -9,15 +9,10 @@ I'm passionate about cybersecurity and thrive on tackling complex challenges thr
 ## ⚠️ Linux File Directory Project
 
 - **[File & Directory Management](https://github.com/AWilso76/Linux-File-Directory)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
-
+- 
 ## 🚨 Database Management using SQL
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
-
-## 🚨 Network Traffic Analysis Report & Tcpdump Traffic Logs 
-
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Database Management using SQL]**
 
 
 <hr/>
