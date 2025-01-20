@@ -10,7 +10,7 @@ Feel free to explore and see the effort I’ve dedicated to advancing cybersecur
 ## ⚠️ Linux File Directory Project
 
 - **[File & Directory Management](https://github.com/AWilso76/Linux-File-Directory)**
-- 
+  
 ## 🚨 Database Management using SQL
 
 - **[Database Management using SQL](https://github.com/AWilso76/DatabaseMgmtSQL)**
