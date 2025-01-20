@@ -18,6 +18,9 @@ I'm passionate about cybersecurity and thrive on tackling complex challenges thr
 <hr/>
 
 ## 🤳 Connect With Me
+<a href="https://www.linkedin.com/in/anitawilson718">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" style="vertical-align:middle;">
+</a>
 
 [linkedin]: https://linkedin.com/in/anitawilson718
 
