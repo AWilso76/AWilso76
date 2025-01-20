@@ -6,9 +6,9 @@
 I'm passionate about cybersecurity and thrive on tackling complex challenges through hands-on projects. My repository showcases practical work in key areas like Active Directory management and updates using Linux, database management with SQL, and network traffic analysis using tools like tcpdump. Each project highlights my ability to analyze, document, and enhance system security and operational efficiency. Feel free to explore and see the effort I’ve dedicated to advancing cybersecurity processes and practices!
 
 
-## ⚠️ Active Directory & File updates with Linux 
+## ⚠️ Linux File Directory Project
 
-- **[Algorithm for file updates in Python](https://github.com/AWilso76/Projects/blob/main/Algorithm%20for%20file%20updates%20in%20Python.docx)**
+- **[File & Directory Management](https://github.com/AWilso76/Linux-File-Directory)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
 ## 🚨 Database Management using SQL
