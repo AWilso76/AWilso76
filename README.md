@@ -22,7 +22,7 @@ I'm passionate about cybersecurity and thrive on tackling complex challenges thr
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" style="vertical-align:middle;">
 </a>
 
-[linkedin]: https://linkedin.com/in/anitawilson718
+[linkedin]: https://linkedin.com/in/anita-wilson718
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
