@@ -3,7 +3,8 @@
 # <a href="https://www.linkedin.com/in/anitawilson718/">Anita Wilson</a>'s IT and Cybersecurity Project Portfolio 🔐
 
 
-I'm passionate about cybersecurity and thrive on tackling complex challenges through hands-on projects. My repository showcases practical work in key areas like Active Directory management and updates using Linux, database management with SQL, and network traffic analysis using tools like tcpdump. Each project highlights my ability to analyze, document, and enhance system security and operational efficiency. Feel free to explore and see the effort I’ve dedicated to advancing cybersecurity processes and practices!
+I'm passionate about cybersecurity and thrive on tackling complex challenges through hands-on projects. My repository showcases practical work in key areas like Active Directory management and updates using Linux and database management with SQL. Each project highlights my ability to analyze, document, and enhance system security and operational efficiency. 
+Feel free to explore and see the effort I’ve dedicated to advancing cybersecurity processes and practices!
 
 
 ## ⚠️ Linux File Directory Project
