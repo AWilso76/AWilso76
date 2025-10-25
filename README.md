@@ -1,42 +1,44 @@
 ## Hi there, I'm Anita and Welcome!! 👋
 
-# <a href="https://www.linkedin.com/in/anitawilson718/">Anita Wilson</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/anitawilson718/">Anita Wilson</a>'s IT Support and Automation Project Portfolio 🔐
+
+# 💼 IT Support & Automation Portfolio
+
+I am passionate about cybersecurity and enjoy solving complex challenges through hands-on projects. This portfolio demonstrates practical experience in areas such as **user account management, system automation, and database management using SQL**. Each project highlights my ability to **analyze systems, document processes, and improve operational efficiency**.
+
+Explore the projects below to see the work I’ve dedicated to advancing IT support, automation, and cybersecurity practices.
+
+---
+
+## 🛠️ Projects
+
+### **[User Account Management Automation](https://github.com/AWilso76/UserAcctMngmt)**  
+Automates Windows user account lifecycle management. Demonstrates **Python scripting**, system administration, and auditing/logging practices.  
+*Key Skills:* Python, Windows Administration, Automation, Logging  
+
+### **[Process Monitoring Script](https://github.com/AWilso76/Process-Monitoring)**  
+Monitors CPU and memory usage for active processes and logs alerts for high-resource usage. Highlights **proactive system monitoring** and troubleshooting.  
+*Key Skills:* Python, System Monitoring, psutil, Troubleshooting  
+
+### **[Database Management with SQL](https://github.com/AWilso76/DatabaseMgmtSQL)**  
+Performs queries and data analysis on relational databases. Demonstrates **SQL proficiency**, data interpretation, and documentation of results.  
+*Key Skills:* SQL, Data Analysis, Documentation  
+
+---
+
+## ⚡ Skills & Tools
+- **Languages & Scripting:** Python, SQL  
+- **Systems:** Windows 10/11, basic Linux commands  
+- **Tools & Concepts:** Automation, System Monitoring, User Account Management, Logging & Auditing  
+
+---
+
+## 📬 Connect
+- [LinkedIn](https://www.linkedin.com/in/anita-wilson718)  
+- Portfolio maintained internally for **IT Support / Applications Analyst** roles  
+
+---
 
 
-I'm passionate about cybersecurity and thrive on tackling complex challenges through hands-on projects. My repository showcases practical work in key areas like Active Directory management and updates using Linux and database management with SQL. Each project highlights my ability to analyze, document, and enhance system security and operational efficiency. 
-Feel free to explore and see the effort I’ve dedicated to advancing cybersecurity processes and practices!
 
 
-## ⚠️ Linux File Directory Project
-
-- **[File & Directory Management](https://github.com/AWilso76/Linux-File-Directory)**
-  
-## 🚨 Database Management using SQL
-
-- **[Database Management using SQL](https://github.com/AWilso76/DatabaseMgmtSQL)**
-
-## ⚠️ Process Monitoring Script Project
-  
-- **[Process Monitoring](https://github.com/AWilso76/Process-Monitoring)**
-
-## 🚨 User Account Management Automation Script Project
-
-- **[User Account Management Automation](https://github.com/AWilso76/UserAcctMngmt)**
-
-
-  
-
- 
-<hr/>
-
-## 🤳 Connect With Me
-<a href="https://www.linkedin.com/in/anita-wilson718/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" style="vertical-align:middle;">
-</a>
-
-[linkedin]: https://linkedin.com/in/anita-wilson718
-
-<!--
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
--->
